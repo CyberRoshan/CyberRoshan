@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Roshan+Chaurasia!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Web developer from Uttar Pradesh, India.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Projects**
+ 🔭 I’m currently working on **Development & Learning MERN Stack**
  
  🌱 I’m currently learning **JavaScript, BootStrap**
 
@@ -20,10 +20,10 @@
 <div align="center"> 
   <a href="mailto:roshanchaurasia990@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/roshan-chaurasia-ba6aaa301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://cyberroshan.github.io/portfolio-Roshan.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
@@ -43,21 +43,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 margin-right= 20px src="https://github-readme-stats.vercel.app/api?username=CyberRoshan&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CyberRoshan&theme=highcontrast&hide_border=false" />
-  <br/>
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=CyberRoshan&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/><br/><br/>
+  <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=CyberRoshan&theme=highcontrast&hide_border=false" />
+  <br/><br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberRoshan&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
 </div>
-
 <br/><br/>
-
 <hr/>
-
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
