@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **Development & Learning MERN Stack**
  
- 🌱 I’m currently learning **JavaScript, BootStrap**
+ 🌱 I’m currently learning **React JS, Tailwind CSS**
 
-💬 Ask me about **HTML5 CSS3, JavaScript... or anything [here](https://github.com/CyberRoshan)**
+💬 Ask me about **JavaScript, Bootstrap, Tailwind CSS,  React JS... or anything [here](https://github.com/CyberRoshan)**
 
 
  </div>
