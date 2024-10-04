@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **Development & Learning MERN Stack**
  
- 🌱 I’m currently learning **React JS, Tailwind CSS**
+ 🌱 I’m currently learning **Backend Development**
 
-💬 Ask me about **JavaScript, Bootstrap, Tailwind CSS,  React JS... or anything [here](https://github.com/CyberRoshan)**
+💬 Ask me about anything related to **Frontend Development or my journey into Backend Development. [here](https://www.linkedin.com/in/roshan-chaurasia-ba6aaa301)**
 
 
  </div>
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwind,react,vite,redux,nextjs,nodejs,express,mongodb,github,git,vscode" /><br>
 </div>
 
 <br/>
